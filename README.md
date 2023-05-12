@@ -1,3 +1,3 @@
 # BashScript
 Creating a Database using Bash script
-https://drive.google.com/file/d/1EGV9ePtC3OoLA79NKvMYeKWo-LmIlP1z/view?usp=share_link
+This is a tutroial of my project --->   https://drive.google.com/file/d/1ejCSsZc9MddsuD4V1QIeeqffhlK1n0RL/view?usp=share_link
